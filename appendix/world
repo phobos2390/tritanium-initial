@@ -1,0 +1,29 @@
+#Places
+##Earth
+##Luna
+##Mars
+##Phobos
+##Deimos
+##Europa
+##Callisto
+##Ganymede
+##IO
+##Titan
+
+Earth.Inhabitants: Terrans
+Earth.Moons[Luna].Inhabitants: Lunarians
+
+Mars.Inhabitants: Martians
+
+Jovian Moon Coalition.Major Players:
+[
+  Europa,
+  Callisto,
+  Ganymede
+]
+
+Jovian Moon Coalition.Other Contolled Locations:
+[
+  IO,
+  Carpo
+]
